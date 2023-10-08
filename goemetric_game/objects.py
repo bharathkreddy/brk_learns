@@ -29,9 +29,6 @@ class Rectangle:
         canvas.data[self.start_x:self.start_x+self.length, self.start_y:self.start_y+ self.breath] = [self.r, self.g, self.b]
 
 
-def Square(Rectangle):
-
-
 
 
 my_canvas = Canvas(10, 15, 253, 240, 240)
