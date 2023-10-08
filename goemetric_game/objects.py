@@ -38,7 +38,7 @@ my_rectangle = Rectangle(3, 5, 2, 3, 31, 65, 114)
 my_rectangle.draw(my_canvas)
 
 # added a random comment message
-
+# added a second random comment message
 img = Image.fromarray(my_canvas.data)
 plt.imshow(img)
 plt.show()
