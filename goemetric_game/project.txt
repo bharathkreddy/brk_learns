@@ -1,0 +1,18 @@
+Title: canvas draw
+Description:
+    User can choose a dimensions of a canvas. On this canvas a user can draw square and rectangle shapes and choose
+    color of these shapes and location of these shapes.
+
+Objects:
+    1: Canvas
+        - dimension
+        - color
+    2: Square
+        - canvas on which it is drawn
+        - location
+        - dimension
+        - color
+    3: Rectangle
+        - location
+        - dimension
+        - color
